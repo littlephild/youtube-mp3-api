@@ -2,7 +2,7 @@
 
 Create a robust music download website using our super fast and and efficient api
 
-### To download youtube audio format (mp3) you can use the below link
+### To download youtube audio format (mp3) you can use the below iframe
 Set the "src" attribute of an HTML iframe to:
 ```
 <iframe src="https://api.mp3hunter.net/@api/button/mp3/{YouTube-Video-ID}" width="100%"></iframe>
@@ -12,8 +12,7 @@ Set the "src" attribute of an HTML iframe to:
 And in your website it will look like
 
 The above iframe will convert and generate  different mp3 formats available in your desired video and the download link will be provided.
-
-### To download youtube video format (mp4) you can use the below link
+### To download youtube video format (mp4) you can use the below iframe
 ```
 <iframe src="https://api.mp3hunter.net/@api/button/videos/{YouTube-Video-ID}" width="100%"></iframe>
 ```
